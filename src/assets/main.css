@@ -4,10 +4,14 @@
 }
 
 .failure {
+  padding-left: 10px;
+  font-size: 30px;
   color: #d9534f;
 }
 
 .success {
+  padding-left: 10px;
+  font-size: 30px;
   color: #5cb85c;
 }
 
